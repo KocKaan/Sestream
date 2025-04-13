@@ -11,3 +11,6 @@ venv/
 # Python cache
 __pycache__/
 *.pyc
+
+backend/*.wav
+backend/*.mp3
