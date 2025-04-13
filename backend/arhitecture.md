@@ -38,3 +38,7 @@ This document outlines the architecture for a real-time audio streaming system t
     [ Send to OpenAI Whisper / LLM API ]
             ↓
     [ Return Transcription to Client or Store ]
+```
+
+Audio Chunks → Buffer → Silero VAD → Speech Segments → RNNoise → Whisper → Return Transcription
+</rewritten_file>
