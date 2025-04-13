@@ -18,8 +18,8 @@ logger = logging.getLogger('process_audio')
 
 def main():
     # Hardcoded input file (MP3)
-    input_file = "sample_convo.mp3"
-    output_file = "sample_convo_voice_only.wav"
+    input_file = "weather.mp3"
+    output_file = "weather_voice_only.wav"
     
     # VAD parameters
     threshold = 0.5
