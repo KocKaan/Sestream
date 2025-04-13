@@ -1,0 +1,1 @@
+# node group for eks, will just be attached to existing eks cluster
