@@ -12,6 +12,6 @@ venv/
 __pycache__/
 *.pyc
 
-backend/*.wav
-backend/*.mp3
-backend/*.mp4
+simple_poc/*.wav
+simple_poc/*.mp3
+simple_poc/*.mp4
