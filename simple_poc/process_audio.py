@@ -3,7 +3,7 @@ import os
 import time
 import logging
 import subprocess
-from silero_vad_processor import SileroVADProcessor
+from simple_poc.silero_vad_processor import SileroVADProcessor
 
 # Set up logging
 logging.basicConfig(
