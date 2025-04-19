@@ -15,3 +15,8 @@ __pycache__/
 simple_poc/*.wav
 simple_poc/*.mp3
 simple_poc/*.mp4
+
+#backend audio and trancription files
+backend/debug_audio
+backend/prev_audio
+backend/transcriptions
